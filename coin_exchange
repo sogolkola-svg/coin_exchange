@@ -22,13 +22,13 @@ input{width:100%;padding:14px;border:1px solid #ddd;border-radius:11px;font-size
 </head>
 <body>
 <div class="phone">
-  <div class="badge">ДЕМО • НЕ НАСТОЯЩИЙ ОБМЕН</div>
+  <div class="badge"</div>
 
   <section id="exchange">
     <div class="muted">Coin Exchange</div>
     <h1>Обмен монет</h1>
     <div class="balance">$5,917,675.22</div>
-    <div class="muted">Демонстрационный баланс</div>
+    <div class="muted"></div>
 
     <div class="card">
       <label>TikTok username</label>
